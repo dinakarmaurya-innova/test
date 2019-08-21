@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.720367, 35.888161]
+      },
+      "properties": {
+        "title": "Urawa PD Center",
+        "description": "Address",
+        "url": "https://group.senko.co.jp/fujisenko/network/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.667764, 35.201342]
+      },
+      "properties": {
+        "title": "Shin-Fuji PD Center",
+        "description": "Address"",
+        "url": "https://group.senko.co.jp/fujisenko/network/"
+      }
+    }
+  ]
+}
+Collapse
+
+
+
